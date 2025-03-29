@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate **Software Developer** with a strong foundation in **C++, C#, Java, and Python**. I am currently **open-source projects** and building **hobby projects**.  
+I'm a passionate **Software Developer** with a strong foundation in **C++, C#, Java, and Python**. I am currently contributing **open-source projects** and building **hobby projects**.  
 
 ### 📫 How to Reach Me  
 - 📧 **Email**: tarun.prabhu11@gmail.com    
